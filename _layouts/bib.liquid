@@ -157,7 +157,7 @@
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.abstract %}
-        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a class="abstract btn btn-sm z-depth-0" role="button">abstract</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
@@ -212,6 +212,13 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {%- if entry.doi %}
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">url</a>
+      {%- elsif entry.halid -%}
+        <a href="https://hal.archives-ouvertes.fr/{{ entry.halid }}" class="btn btn-sm z-depth-0" role="button">url</a>
+      {%- elsif entry.url -%}
+        <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">url</a>
+      {%- endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
