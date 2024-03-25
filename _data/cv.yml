@@ -18,7 +18,6 @@
 - title: Education
   type: time_table
   contents:
-
     - title: Ph.D. Planetary Geophysics
       institution: Observatoire de la Côte d Azur, Nice, France
       description: Advisor, Mark Wieczorek
@@ -52,7 +51,7 @@
     - title: InSight (NASA)
       description: Collaborator
       year: 2018 -
-      
+
 - title: Teaching
   type: time_table
   contents:
