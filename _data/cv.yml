@@ -31,7 +31,7 @@
       institution: Université Pierre et Marie Curie, Paris, France
       year: 2016
 
-    - title: BSc Earth Sciences
+    - title: B.Sc. Earth Sciences
       institution: Université Pierre et Marie Curie, Paris, France
       year: 2015
 
@@ -58,3 +58,34 @@
     - title: Teaching assitant Department of Earth, Environment & Space, Université de Nice Côte d Azur, Nice, France (160 hours)
       description: Planetology, Stratigraphy & Paleontology, Sedimentology, Magmatism, Metamorphism, Mineralogy, Geophysics, Mass wasting & risks (including field work)
       year: 2017 - 2019
+      
+- title: Grants – Awards
+  type: time_table
+  contents:
+    - title: Alexander von Humboldt Foundation Fellowship
+      year: 2024
+      
+    - title: Icarus – <a href="https://www.sciencedirect.com/journal/icarus/about/news">Best Reviewer Award</a>
+      description:
+      year: 2023
+      
+    - title: NASA SSW – Co-I
+      description: "Merucry's tectonics (PI: J. C. Andrews-Hanna)"
+      year: 2023
+      
+    - title: Icarus – <a href="https://www.sciencedirect.com/journal/icarus/about/news">Best Reviewer Award</a>
+      year: 2022
+      
+    - title: NASA FINESST – Co-I
+      description: "Faulting on Pluto (PI: S. Moruzzi)"
+      year: 2022
+      
+    - title: My Thesis in 180s 3rd place
+      year: 2018
+      
+    - title: Workshop in Geology and Geophysics of the Solar System Scholarship (Serbia)
+      year: 2018
+      
+    - title: 29th International School of Space Science Scholarship (Italy)
+      year: 2016
+
