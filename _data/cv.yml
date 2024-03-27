@@ -38,8 +38,11 @@
 - title: Professional Activities
   type: time_table
   contents:
-    - title: Reviewer and panelist
-      institution: NASA Solar System Workings, Lunar Data Analysis, Mars Data Analysis
+    - title: Board Member
+      institution: NASA Solar System Workings Program
+      year: 2020 -
+    - title: Reviewer
+      institution: NASA Lunar Data Analysis Program, NASA Mars Data Analysis Program
       year: 2020 -
     - title: Reviewer
       institution: Journal of Geophysical Research, Geophysical Research Letter, Icarus, Physics of the Earth and Planetary Interiors, Planetary and Space Science
@@ -55,7 +58,7 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Teaching assitant Department of Earth, Environment & Space, Université de Nice Côte d Azur, Nice, France (160 hours)
+    - title: Teaching assitant, Department of Earth, Environment & Space, Université de Nice Côte d Azur, France (160 hours)
       description: Planetology, Stratigraphy & Paleontology, Sedimentology, Magmatism, Metamorphism, Mineralogy, Geophysics, Mass wasting & risks (including field work)
       year: 2017 - 2019
       
@@ -89,3 +92,8 @@
     - title: 29th International School of Space Science Scholarship (Italy)
       year: 2016
 
+- title: Academic Advising
+  type: map
+  contents:
+    - name: Interns
+      value: Felix Rolser (2024)
