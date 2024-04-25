@@ -288,7 +288,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Broquet]
-  first_name: [Broquet, A.]
+  first_name: [Adrien, A., A. P. M.]
 
   style: apa
   locale: en
