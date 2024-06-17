@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AB-Ares
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AB-Ares/Displacement_strain_planet
+  - AB-Ares/Te_HF_Conversion
+  - AB-Ares/Py_Admittance
+  - SHTOOLS/SHTOOLS

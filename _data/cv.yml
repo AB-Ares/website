@@ -5,7 +5,7 @@
 - title: Professional Positions
   type: time_table
   contents:
-    - title: Postdoctoral Fellow
+    - title: Research Fellow
       institution: German Aerospace Center, DLR, Berlin, Germany
       year: 2024 - 2026
     - title: Postdoctoral Research Associate
@@ -39,13 +39,13 @@
   type: time_table
   contents:
     - title: Board Member
-      institution: NASA Solar System Workings Program
+      institution: NASA Solar System Workings Program & Lunar Data Analysis Program
       year: 2020 -
     - title: Reviewer
-      institution: NASA Lunar Data Analysis Program & Mars Data Analysis Program
+      institution: NASA Mars Data Analysis Program
       year: 2020 -
     - title: Reviewer
-      institution: Journal of Geophysical Research, Geophysical Research Letter, Icarus, Physics of the Earth and Planetary Interiors, Planetary and Space Science
+      institution: Journal of Geophysical Research, Geophysical Research Letters, Icarus, Physics of the Earth and Planetary Interiors, Planetary and Space Science, Nature Geoscience
       year: 2020 -
 
 - title: Planetary Missions
@@ -54,6 +54,10 @@
     - title: InSight (NASA)
       description: Collaborator
       year: 2018 -
+      
+    - title: BELA – BepiColombo (ESA)
+      description: Collaborator
+      year: 2024 -
 
 - title: Teaching
   type: time_table
@@ -96,4 +100,4 @@
   type: map
   contents:
     - name: Interns
-      value: Felix Rolser (2024)
+      value: Felix Rolser (2024), Sabatino Santangelo (2024)
