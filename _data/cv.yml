@@ -23,7 +23,7 @@
       description: Advisor, Mark Wieczorek
       year: 2020
 
-    - title: Master 2 Solid-Earth Geophysic
+    - title: Master 2 Solid-Earth Geophysics
       institution: Institut de Physique du Globe de Paris, France
       year: 2017
 
@@ -63,8 +63,11 @@
   type: time_table
   contents:
     - title: Teaching assitant, Department of Earth, Environment & Space, Université de Nice Côte d Azur, France (160 hours)
-      description: Planetology, Stratigraphy & Paleontology, Sedimentology, Magmatism, Metamorphism, Mineralogy, Geophysics, Mass wasting & risks (including field work)
+      description: Classes – Planetology, Stratigraphy & Paleontology, Sedimentology, Magmatism, Metamorphism, Mineralogy, Geophysics, Mass wasting & risks (including field work)
       year: 2017 - 2019
+    - title: Coordinator & Teacher, Physics and Fundamentals of Planetary Exploration Summer School at Technische Universität Berlin (2 weeks)
+      description: Key topics – Fundamental physics of planetary science, gravity, orbital dynamics, methods of planetary exploration from imaging and spectrometry to seismology. Evolution of planetary surfaces, with a focus on tectonic, volcanic and cratering processes. Past, present, and future of planetary exploration, from Apollo and Artemis to Psyche and Europa Clipper.
+      year: 2024
       
 - title: Grants – Awards
   type: time_table
@@ -100,4 +103,6 @@
   type: map
   contents:
     - name: Interns
-      value: Felix Rolser (2024), Sabatino Santangelo (2024)
+      value: Felix Rolser (2024, DLR, Germany), Sabatino Santangelo (2024, DLR, Germany)
+    - name: PhD co-supervision
+      value: Aymeric Fleury (2023– , DLR, Germany), Claudia Szczech (2023– , DLR, Germany), Sabatino Santangelo (2024– , DLR, Germany)
