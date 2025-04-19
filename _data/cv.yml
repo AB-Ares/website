@@ -44,9 +44,9 @@
     - title: Reviewer
       institution: NASA Mars Data Analysis Program, UK Space Agency Exploration Science Program
       year: 2020 -
-    - title: Reviewer
-      institution: Journal of Geophysical Research, Geophysical Research Letters, Icarus, Physics of the Earth and Planetary Interiors, Planetary and Space Science, Nature Geoscience, Advances in Space Research
-      year: 2020 -
+    - title: Reviewer (~3 individual papers reviewed per year)
+      institution: Journal of Geophysical Research, Geophysical Research Letters, Icarus, Physics of the Earth and Planetary Interiors, Planetary and Space Science, Nature Geoscience / Communications, Advances in Space Research
+      year: 2018 -
 
 - title: Planetary Missions
   type: time_table
@@ -103,6 +103,6 @@
   type: map
   contents:
     - name: Interns
-      value: Felix Rolser (2024, DLR, Germany), Sabatino Santangelo (2024, DLR, Germany), Faris Beg (2025, DLR, Germany)
+      value: 2024: Felix Rolser, Sabatino Santangelo. 2025: Faris Beg
     - name: PhD co-supervision
-      value: Aymeric Fleury (2023– , DLR, Germany), Claudia Szczech (2023– , DLR, Germany), Sabatino Santangelo (2024– , DLR, Germany)
+      value: Aymeric Fleury (2023–2025), Claudia Szczech (2023–2025), Sabatino Santangelo (2024– )
