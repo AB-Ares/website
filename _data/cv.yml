@@ -5,6 +5,9 @@
 - title: Professional Positions
   type: time_table
   contents:
+    - title: Emmy Noether Junior Group Leader
+      institution: German Aerospace Center, DLR, Berlin, Germany
+      year: 2026 - 2032
     - title: Research Fellow
       institution: German Aerospace Center, DLR, Berlin, Germany
       year: 2024 - 2026
@@ -72,6 +75,9 @@
 - title: Grants – Awards
   type: time_table
   contents:
+    - title: DFG Emmy Noether Grant (1.4M)
+      year: 2025
+      
     - title: Alexander von Humboldt Foundation Fellowship
       year: 2024
       
