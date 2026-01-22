@@ -28,4 +28,4 @@ I have developed several open-source software packages for geophysics, for gravi
 
 I am currently a team member of [NASA's InSight](https://science.nasa.gov/mission/insight/) mission on Mars and [ESA's BepiColombo](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo) mission en route for Mercury.
 
-NEWS: I was recently awarded a 1.4M DFG [Emmy Noether Group Leader](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether) grant and will soon look for Ph.D students and a Postdoc to work with me at the German Aerospace Center in Berlin. My proposal investigates the volcanic and tectonic history of the Moon and Mercury. 
+**NEWS**: I was recently awarded a 1.4M DFG [Emmy Noether Group Leader](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether) grant and will soon look for Ph.D students and a Postdoc to work with me at the German Aerospace Center in Berlin. My proposal investigates the volcanic and tectonic history of the Moon and Mercury. 
