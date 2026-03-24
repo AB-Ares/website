@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <a href="https://www.dlr.de/en" style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>German Aerospace Center (DLR), Berlin</b></a><br />
-<font style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>Emmy Noether Junior Group Leader</b></font>
+#### <font style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>`Emmy Noether Junior Group Leader`</b></font>
 <br />
 
 ### About me ###
@@ -28,6 +28,8 @@ I have developed several open-source software packages for geophysics, for gravi
 
 I am currently a team member of [NASA's InSight](https://science.nasa.gov/mission/insight/) mission on Mars and [ESA's BepiColombo](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo) mission en route to Mercury.
 
-### NEWS ###
-Dec. 2025 -- I was recently awarded a 1.4M DFG [Emmy Noether Group Leader](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether) grant and will soon look for Ph.D students and a Postdoc to work with me at the German Aerospace Center in Berlin. My proposal investigates the volcanic and tectonic history of the Moon and Mercury. 
-March 2026 -- I have been appointed [**Guest Investigator** of the BepiColombo mission by ESA](https://www.cosmos.esa.int/web/bepicolombo-ids-gi-2025). I plan to combine elevation and gravity data from BELA and MORE to unravel Mercury's geodynamic history.
+### News ###
+
+`Dec. 2025` I was recently awarded a 1.4M DFG [Emmy Noether Group Leader](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether) grant and will soon look for Ph.D students and a Postdoc to work with me at the German Aerospace Center in Berlin. My proposal investigates the volcanic and tectonic history of the Moon and Mercury. 
+
+`March 2026` I have been appointed [**Guest Investigator** of the BepiColombo mission by ESA](https://www.cosmos.esa.int/web/bepicolombo-ids-gi-2025). I plan to combine elevation and gravity data from BELA and MORE to unravel Mercury's geodynamic history.

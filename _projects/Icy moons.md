@@ -3,7 +3,7 @@ layout: page
 title: Icy moons
 description: 
 img: assets/img/Europa.png
-importance: 1
+importance: 2
 category: planets
 ---
 
