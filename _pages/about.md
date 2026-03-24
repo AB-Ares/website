@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <a href="https://www.dlr.de/en" style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>German Aerospace Center (DLR), Berlin</b></a><br />
-#### <font style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>`Emmy Noether Junior Group Leader`</b></font>
+#### <font style="font-family: monospace; text-decoration: none; color: var(--global-text-color"><b>Emmy Noether Junior Group Leader</b></font>
 <br />
 
 ### About me ###
