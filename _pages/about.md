@@ -26,10 +26,10 @@ I got my Ph.D. in Planetary Geophysics in 2020 at the Observatoire de la Côte d
 
 I have developed several open-source software packages for geophysics, for gravity and deformation calculations ([DSP](https://github.com/AB-Ares/Displacement_strain_planet), [Py_Admittance](https://github.com/AB-Ares/Py_Admittance)), but also yield strength envelope and heat flow modeling ([TeHF](https://github.com/AB-Ares/Te_HF_Conversion)).
 
-I am currently a team member of [NASA's InSight](https://science.nasa.gov/mission/insight/) mission on Mars and [ESA's BepiColombo](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo) mission en route to Mercury.
+I was a team member of [NASA's InSight](https://science.nasa.gov/mission/insight/) mission on Mars, and I am currently a Guest Investigator of [ESA's BepiColombo](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo) mission en route to Mercury.
 
 ### News ###
 
-`Dec. 2025` I was recently awarded a 1.4M DFG [Emmy Noether Group Leader](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether) grant and will soon look for Ph.D students and a Postdoc to work with me at the German Aerospace Center in Berlin. My proposal investigates the volcanic and tectonic history of the Moon and Mercury. 
-
 `March 2026` I have been appointed [**Guest Investigator** of the BepiColombo mission by ESA](https://www.cosmos.esa.int/web/bepicolombo-ids-gi-2025). I plan to combine elevation and gravity data from BELA and MORE to unravel Mercury's geodynamic history.
+
+`Dec. 2025` I was awarded a 1.4M DFG [Emmy Noether Group Leader](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether) grant and will soon look for Ph.D students and a Postdoc to work with me at the German Aerospace Center in Berlin. My proposal investigates the volcanic and tectonic history of the Moon and Mercury. 
